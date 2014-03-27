@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface DCP_VC_Formats : UIViewController
+@interface DCP_VC_Fofhgfhgfrmats : UIViewController
 
 @end
